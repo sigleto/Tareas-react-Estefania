@@ -1,0 +1,13 @@
+.contenedorTarea{
+
+
+background-color: blueviolet;
+
+}
+
+.tachado{
+
+    background-color: blueviolet;
+    color:rgb(255, 0, 153);
+    text-decoration: line-through;
+}
